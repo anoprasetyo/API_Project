@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "bunting@ngesot.com",
+      "phone": "08123456789"
+    },
+    {
+      "id": 2,
+      "username": "Bernacle",
+      "password": "bernacle123",
+      "email": "bunting@bernacle.com",
+      "phone": "08987654321"
+    },
+    {
+      "username": "Apriano",
+      "email": "aprianoprasetyo@gmail.com",
+      "phone": "087654335627",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "Gessa",
+      "email": "gessampah@gmail.com",
+      "phone": "08136661969",
+      "password": "hahaha",
+      "id": 4
+    }
+  ],
+  "popok": [
+    {
+      "id": 1,
+      "nama": "Ludwig",
+      "merk": "Ludwig LM400 Supraphonic",
+      "description": "The Best Vintage Snare",
+      "harga": 10000000,
+      "img": "https://media.musiciansfriend.com/is/image/MMGS7/Supraphonic-Snare-Drum-Chrome-14-x-6.5-in./446280000375488-00-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Pearl",
+      "merk": "Pearl Ian Paice",
+      "description": "One of The Best Vintage Snare",
+      "harga": 8000000,
+      "img": "https://media.musiciansfriend.com/is/image/MMGS7/Ian-Paice-Signature-Snare-Drum-14-x-6.5-in./448680000000488-00-500x500.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "TAMA",
+      "merk": "Tama S.L.P. Series LGM137STA",
+      "description": "The Most Versatile Snare",
+      "harga": 7500000,
+      "img": "https://www.bhphotovideo.com/images/images2000x2000/tama_lgm137sta_s_l_p_series_g_maple_snare_1299398.jpg"
+    }
+  ],
+  "cart": [],
+  "history": [
+    {
+      "id": 1,
+      "username": "Apriano",
+      "tanggal": "11 December 2018",
+      "quantity": "1",
+      "total": 10000000
+    },
+    {
+      "id": [
+        {
+          "username": "Apriano",
+          "id": 3,
+          "nama": "TAMA",
+          "img": "https://www.bhphotovideo.com/images/images2000x2000/tama_lgm137sta_s_l_p_series_g_maple_snare_1299398.jpg",
+          "harga": 7500000,
+          "quantity": "3",
+          "total": 22500000,
+          "id_order": 1
+        }
+      ]
+    },
+    {
+      "history": [
+        {
+          "username": "Apriano",
+          "id": 1,
+          "nama": "Ludwig",
+          "img": "https://media.musiciansfriend.com/is/image/MMGS7/Supraphonic-Snare-Drum-Chrome-14-x-6.5-in./446280000375488-00-500x500.jpg",
+          "harga": 10000000,
+          "quantity": "1",
+          "total": 10000000,
+          "id_order": 1
+        },
+        {
+          "username": "Apriano",
+          "id": 3,
+          "nama": "TAMA",
+          "img": "https://www.bhphotovideo.com/images/images2000x2000/tama_lgm137sta_s_l_p_series_g_maple_snare_1299398.jpg",
+          "harga": 7500000,
+          "quantity": "1",
+          "total": 7500000,
+          "id_order": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "history": [
+        {
+          "username": "Apriano",
+          "id": 1,
+          "nama": "Ludwig",
+          "img": "https://media.musiciansfriend.com/is/image/MMGS7/Supraphonic-Snare-Drum-Chrome-14-x-6.5-in./446280000375488-00-500x500.jpg",
+          "harga": 10000000,
+          "quantity": "1",
+          "total": 10000000,
+          "id_order": 1
+        },
+        {
+          "username": "Apriano",
+          "id": 2,
+          "nama": "Pearl",
+          "img": "https://media.musiciansfriend.com/is/image/MMGS7/Ian-Paice-Signature-Snare-Drum-14-x-6.5-in./448680000000488-00-500x500.jpg",
+          "harga": 8000000,
+          "quantity": "1",
+          "total": 8000000,
+          "id_order": 1
+        },
+        {
+          "username": "Apriano",
+          "id": 3,
+          "nama": "TAMA",
+          "img": "https://www.bhphotovideo.com/images/images2000x2000/tama_lgm137sta_s_l_p_series_g_maple_snare_1299398.jpg",
+          "harga": 7500000,
+          "quantity": "1",
+          "total": 7500000,
+          "id_order": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "history": [
+        {
+          "username": "Apriano",
+          "id": 2,
+          "nama": "Pearl",
+          "img": "https://media.musiciansfriend.com/is/image/MMGS7/Ian-Paice-Signature-Snare-Drum-14-x-6.5-in./448680000000488-00-500x500.jpg",
+          "harga": 8000000,
+          "quantity": "1",
+          "total": 8000000,
+          "id_order": 1
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
